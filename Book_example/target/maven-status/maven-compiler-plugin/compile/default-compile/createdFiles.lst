@@ -1,0 +1,6 @@
+com\javatechie\crud\example\SpringBootCrudExample2Application.class
+com\javatechie\crud\example\service\BookService.class
+com\javatechie\crud\example\controller\BookController.class
+com\javatechie\crud\example\swaggerconfig\SwaggerConfig.class
+com\javatechie\crud\example\entity\Book.class
+com\javatechie\crud\example\repository\BookRepository.class
